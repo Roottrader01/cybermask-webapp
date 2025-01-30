@@ -1,8 +1,11 @@
+import os
 import cv2
 import mediapipe as mp
 import numpy as np
 import time
 import math
+
+print("Running in dirctory:", os.getcwd())
 
 # Define the correct path to the cyberpunk mask
 mask_path = "/home/rootking/AR_Face_Filter/cyberpunk_mask.png"
