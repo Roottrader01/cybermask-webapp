@@ -1,5 +1,3 @@
 # Ignore compiled library files
 *.so
 AR_Face_Filter/lib/python3.11/site-packages/
-*.so
-AR_Face_Filter/lib/python3.11/site-packages/
